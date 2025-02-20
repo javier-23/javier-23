@@ -24,7 +24,7 @@
   <a href="www.linkedin.com/in/javier-mora-ortiz-villajos-528956333" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://bit.ly/4kaTNyo" target="_blank">
+  <a href="mailto:j.moraov@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
   </a>
 </div>
