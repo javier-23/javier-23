@@ -59,6 +59,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/javier-23/javier-23/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **javier-23/javier-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
