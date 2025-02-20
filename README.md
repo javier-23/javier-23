@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">¡Hola!👋</h2>
+<h1 align="center">¡Hola!👋</h1>
 
 ###
 
@@ -60,7 +60,7 @@
 ###
 
 ## 🐍 Snake eating my contributions
-<img src="https://github.com/javier-23/javier-23/raw/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/javier-23/javier-23/raw/main/output/snake.svg" alt="Snake animation" />
 
 
 ###
