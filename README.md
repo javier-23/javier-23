@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/javier-23/Imagenes/blob/5d594e95ab6a0c43a05b93ce8f33f4f31c9fab3e/Banner%20de%20LinkedIn%20Azul%20Ilustrado%20Tecnolog%C3%ADa.png"  />
+  <img height="200" src="https://github.com/javier-23/Imagenes/blob/0767bb444f949fd6ef9ae030e1ed4ed255ff9e06/Banner%20de%20LinkedIn%20Azul%20Ilustrado%20Tecnolog%C3%ADa.png"  />
 </div>
 
 ###
