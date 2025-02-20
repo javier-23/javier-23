@@ -59,9 +59,9 @@
 
 ###
 
-<br clear="both">
-
+## 🐍 Snake eating my contributions
 <img src="https://raw.githubusercontent.com/javier-23/javier-23/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
