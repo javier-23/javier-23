@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">Soy Javier, y soy de Almadén (Ciudad Real), aunque actualmente estoy estudiando en Granada.</p>
+<p align="left">Mi nombre es Javier, y soy de Almadén (Ciudad Real), aunque actualmente estoy estudiando en Granada.</p>
 
 ###
 
-<h2 align="left">Sobre mí..</h2>
+<h2 align="left">Sobre mí...</h2>
 
 ###
 
