@@ -18,7 +18,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./output/snake.svg
-            ./output/snake.gif
 
       - name: Push generated files to the repository
         uses: EndBug/add-and-commit@v9
