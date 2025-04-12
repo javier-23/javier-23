@@ -2,7 +2,7 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta todos los días a la medianoche UTC
+    - cron: "0 0 * * 1" # Se ejecuta los lunes
   workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
 
 jobs:
