@@ -27,3 +27,4 @@ jobs:
           author_email: github-actions@github.com
           message: "Generate Snake Animation 🐍"
           add: "./output/*"
+          push: true
