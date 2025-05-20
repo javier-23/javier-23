@@ -12,8 +12,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Clean old files
-        run: rm -f ./output/*
+      - name: Remove old files from repo
+        run: |
+          git rm -f ./output/*
+        continue-on-error: true
 
       - name: Generate Snake Animation 🐍
         uses: Platane/snk@v3
@@ -21,13 +23,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./output/snake.svg
-
-      - name: Upload generated snake as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: ./output/snake.svg
-          retention-days: 7
 
       - name: Push generated files to the repository
         uses: EndBug/add-and-commit@v9
