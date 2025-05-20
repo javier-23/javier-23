@@ -28,3 +28,12 @@ jobs:
           name: snake
           path: ./output/snake.svg
           retention-days: 7
+
+      - name: Push generated files to the repository
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Generate Snake Animation 🐍"
+          add: "./output/snake.svg"
+          push: true
