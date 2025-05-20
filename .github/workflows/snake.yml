@@ -12,6 +12,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Clean old files
+        run: rm -f ./output/*
+
       - name: Generate Snake Animation 🐍
         uses: Platane/snk@v3
         with:
@@ -19,11 +22,9 @@ jobs:
           outputs: |
             ./output/snake.svg
 
-      - name: Push generated files to the repository
-        uses: EndBug/add-and-commit@v9
+      - name: Upload generated snake as artifact
+        uses: actions/upload-artifact@v4
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "Generate Snake Animation 🐍"
-          add: "./output/*"
-          push: true
+          name: snake
+          path: ./output/snake.svg
+          retention-days: 7
