@@ -63,7 +63,7 @@
 
 ###
 
-## 🐍 Snake eating my contributions
+## 🐍 Commits
 <img src="https://github.com/javier-23/javier-23/raw/main/output/snake.svg?sanitize=true" alt="Snake animation" /> 
 <!--![snake gif](https://github.com/javier-23/javier-23/raw/main/output/snake.gif)
 
