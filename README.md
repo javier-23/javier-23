@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Mi nombre es Javier, y soy de Almadén (Ciudad Real), aunque actualmente estoy estudiando en Granada.😄</p>
+<p align="left">Mi nombre es Javier, me gusta el desarrollo de software y en general el mundo de la informática, o eso creo.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Ingeniería Informática y ADE<br>📚 Estudiante de la Universidad de Granada</p>
+<p align="left">✨ Ingeniería Informática y ADE<br>📚 Universidad de Granada</p>
 
 ###
 
